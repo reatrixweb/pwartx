@@ -1,0 +1,39 @@
+{
+  "name": "REATRIX WEB",
+  "short_name": "REATRIXWEB",
+  "scope": "https://www.reatrixweb.com/?m=1",
+  "start_url": "https://www.reatrixweb.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "ReatrixFinance Akan memberikan information seputar cara mendapatkan penghasilan di online, dan berbagai tema (template) blogger gratis.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiju9ezA9ShRRgH8eOF2-kkgJZhzTHkpUvfWfiuGlQG89bABoHkektlfvox7o427pUiV4k8m3xKN_fVYDOr8Vciy6PiFz5AMSeWHoS0D1qZ6JrEDyJ7jmLn0t1wcvOP19v0oEHIagFcWoqF_zD5E5K3bJuggnDs5G5jVNgVVKr6yd3bDbySoYA2RCPHCaOQ/s1600/20240404_000439.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_FcOOZuO5pnTg_uxIHW6wtMmKb5pA03vrWKgl_E0PDfD3KtRHIDcM6LNjro-M_RB6KsoWPw-TcN2EChqqp22Ip1Pueai1j3KNq0qYUbe255cmgHtGm1ifzFqYHILOECDKX1HVggPiGfN-jtksMV4AI-zt8EQKClGMf3UuUfQIlycdiLAFBvQzEEvvUuMv/s72/20240404_000536.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqFYDv3WgB6jOeh-umBi5x2wON6t_c1jJ8vM7AuoK0jCkVrQwJNGghVRjMaZLTDBM6X5KhS8Zh_yPW2I7wIzOn_nXOLKo9zGNwVgY-ZwTeHr9XHiz5TZ9FPKEV0lIX46soIIxDf15La9recrfVEaVUbOie96-xl2WaloaO-fNkRZrjdVkIONT612JQak7p/s1600/20240404_000654.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioAs3Fr77Tocbjnj-pSO6cyrRYy8v0Qp8BwewfDbhaJ9qVUvf3spaASxexJEV2X2QRWwdn2lqDiw6Go-bQ9dZuwY-cg2U6Ukll31mXWsDg7YdDue74decNh6g5FIYxW96LuTGGCvGwsghMMnx46SzLxWCi-9ujUYAKeXHhdcyrCjb93diGxg95ESPIdZKC/s1600/20240404_000744.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZd6u75TFclj-EGCUhLu1pj5JY44Nxp3bSevo4PGrfUGjJRdrPscUYhBCTqgHIj47LuRhx515Z6-twePlyZVR84moF4ZrPBVVgsIwgH7fmYvdPWodGfiqE3krY7RtzDWkhL1kWaUj5HjfmiovNEmPZobAKO621yNf7Ngy1n70F_iZM6Hn5Geksw_2PpFP5/s1600/20240404_000842.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQXNkkz-oq4LnGSU4JYAIWC_mu76-mDjSUA_wLnRnF79dfOOdbY-ap9z6NbrWW3Ivpf09hyuQo9acJBfcxraPyUT54ZvVf7WZZH1wvfxjaYQRB6fNYidkSg8PqxCy71lFLIrnp6210hTRsG7AzEB0JGWlqQ28FIpupdTiIuLMFbKdKHFCT4Dx5UfSEbmeJ/s1600/20240404_000936.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdbdVXXt2nJADgixu5lyIogPQzzi7mc6F7kc0MM2mqKFiVU74Bk7g-oRcJ0FuAYD34RkItbiA2SeHfFyIp-dqNrj7xUgOfpJiuiM303mSPheY6Mc0QiSz2DQBb682T2iLyn9LYzOcmY68U_L6HMVYKkQS72Noci92sDcnvUuwD3YkCz70L8DCDGW9043m4/s1600/20240404_001028.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
